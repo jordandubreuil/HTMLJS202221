@@ -1,0 +1,32 @@
+p{
+    color: green;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h3,h2,h5{
+    color: blue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: aquamarine;
+    text-align: center;
+    border: 2px solid darkblue;
+    border-radius: 5px;
+    
+}
+body{
+    background-color: rgb(178, 178, 221);
+    background-image: url("images/background.png");
+}
+
+a:link{
+    color: darkblue;
+    text-decoration: none;
+}
+a:visited{
+    color: darkblue;
+}
+a:hover{
+    text-decoration: underline;
+}
+a:active{
+    color: yellow;
+}
