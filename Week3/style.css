@@ -1,0 +1,27 @@
+p{
+    color:whitesmoke;
+    font-family: 'Courier New', Courier, monospace;
+    width: 700px;
+    border: 5px dashed skyblue;
+    padding: 10px;
+    margin:auto;
+    background-color: slategray;
+}
+body{
+    background-color: antiquewhite;
+    background-image: url(images/cssbg.png);
+ 
+}
+ul{
+    background-color: antiquewhite;
+    border: 2px dashed skyblue;
+}
+
+h1{
+    border: 5px dotted red;
+    margin: auto;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: tomato;
+    background-color: azure;
+}
